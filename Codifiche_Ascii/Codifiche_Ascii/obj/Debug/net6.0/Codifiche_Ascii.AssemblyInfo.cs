@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codifiche_Ascii")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6616a64cd905963b9e7e112d689c238d54524089")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codifiche_Ascii")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codifiche_Ascii")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
